@@ -1,0 +1,6 @@
+/home/nicolas/c#/TP 1/Ejercio10/bin/Debug/Ejercio10.exe
+/home/nicolas/c#/TP 1/Ejercio10/bin/Debug/Ejercio10.pdb
+/home/nicolas/c#/TP 1/Ejercio10/obj/x86/Debug/Ejercio10.csprojAssemblyReference.cache
+/home/nicolas/c#/TP 1/Ejercio10/obj/x86/Debug/Ejercio10.csproj.CoreCompileInputs.cache
+/home/nicolas/c#/TP 1/Ejercio10/obj/x86/Debug/Ejercio10.exe
+/home/nicolas/c#/TP 1/Ejercio10/obj/x86/Debug/Ejercio10.pdb
